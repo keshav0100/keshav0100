@@ -9,9 +9,9 @@ A passionate **Full Stack & AI Developer** with a strong foundation in building 
 
 ## 🔗 Links
 
-[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://keshav0100.github.io/Portfolio/)
+[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](http://keshavbansal.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshav-bansal01/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/keshav.1304)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bansalkeshav1390@gmail.com)
 
 ---
