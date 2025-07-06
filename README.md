@@ -7,12 +7,15 @@ Over **1000+ hours of coding experience** across JavaScript, Python, Java, and m
 ---
 
 ### 🔗 Links  
-🌐 [Portfolio](https://keshav0100.github.io/Portfolio/)  
-💼 [LinkedIn](https://www.linkedin.com/in/keshav-bansal01/)  
-📸 [Instagram](https://instagram.com) *(add actual link)*  
-🐱 [GitHub](https://github.com/keshav0100)
+## 🔗 Links
+
+[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://keshav0100.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshav-bansal01/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bansalkeshav1390@gmail.com)
 
 ---
+
 
 ### 🛠 Tech Stack  
 **Frontend:** React · Next.js · Tailwind CSS  
