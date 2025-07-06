@@ -36,9 +36,10 @@ A passionate **Full Stack & AI Developer** with a strong foundation in building 
 
 
 ---
+## 📊 GitHub Stats  
 
-### 📊 GitHub Stats  
-![Keshav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=keshav0100&show_icons=true&theme=tokyonight&hide=issues)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keshav0100&layout=compact&theme=tokyonight)
+![Keshav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=keshav0100&show_icons=true&theme=tokyonight&count_private=true&hide=issues)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keshav0100&layout=compact&theme=tokyonight)
 
----
+![GitHub Streak](https://streak-stats.demolab.com/?user=keshav0100&theme=tokyonight&hide_border=true)
+
