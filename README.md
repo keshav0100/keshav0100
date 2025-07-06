@@ -1,4 +1,5 @@
-# Hi 👋, I'm Keshav Bansal
+<h1 align="center">Hi 👋, I'm Keshav Bansal</h1>
+
 
 ### 🚀 About Me  
 A passionate **Full Stack & AI Developer** with a strong foundation in building modern, responsive web apps and intelligent systems powered by **LLM's, NLP, Conversational AI and Speech Recognition**.  
