@@ -25,24 +25,21 @@ A passionate **Full Stack & AI Developer** with a strong foundation in building 
 
 ### 🔧 Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
-![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square)
 
 ### 🧠 AI & ML
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FCC624?logo=huggingface&logoColor=black&style=flat-square)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=flat-square)
 ![Gensim](https://img.shields.io/badge/-Gensim-00BFA6?style=flat-square&logo=gensim&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white&style=flat-square)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat-square)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 
 
 ### 🗃️ Database
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 
 
 ## 🧑🏻‍💻 Tools & Platforms
@@ -60,7 +57,9 @@ A passionate **Full Stack & AI Developer** with a strong foundation in building 
 ## 📊 GitHub Stats  
 
 ![Keshav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=keshav0100&show_icons=true&theme=tokyonight&count_private=true&hide=issues)
+![GitHub Streak](https://streak-stats.demolab.com/?user=keshav0100&theme=tokyonight&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keshav0100&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=keshav0100&theme=tokyonight&hide_border=true)
+
 
