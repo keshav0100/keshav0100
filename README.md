@@ -1,12 +1,11 @@
 # Hi 👋, I'm Keshav Bansal
 
 ### 🚀 About Me  
-A passionate **Full Stack & AI Developer** with a strong foundation in building modern, responsive web apps and intelligent systems powered by **LLMs, NLP, and Speech AI**.  
-Over **1000+ hours of coding experience** across JavaScript, Python, Java, and more.
+A passionate **Full Stack & AI Developer** with a strong foundation in building modern, responsive web apps and intelligent systems powered by **LLM's, NLP, Conversational AI and Speech Recognition**.  
+
 
 ---
 
-### 🔗 Links  
 ## 🔗 Links
 
 [![My Portfolio](https://img.shields.io/badge/My%20Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://keshav0100.github.io/Portfolio/)
@@ -25,8 +24,16 @@ Over **1000+ hours of coding experience** across JavaScript, Python, Java, and m
 
 ---
 
-### 🧑🏻‍💻 Tools & Platforms  
-VS Code · Git · GitHub · Postman · Vercel · Netlify · AWS
+## 🧑🏻‍💻 Tools & Platforms
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
 
 ---
 
