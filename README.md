@@ -16,14 +16,27 @@ A passionate **Full Stack & AI Developer** with a strong foundation in building 
 
 ---
 
+## 🛠️ Tech Stack
 
-### 🛠 Tech Stack  
-**Frontend:** React · Next.js · Tailwind CSS  
-**Backend:** Node.js · Express · Spring Boot  
-**AI/ML:** Python · HuggingFace Transformers · LangChain  
-**Database:** PostgreSQL · MongoDB  
+### 💻 Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=nextdotjs&logoColor=white&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
 
----
+### 🔧 Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
+![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square)
+
+### 🧠 AI & ML
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FCC624?logo=huggingface&logoColor=black&style=flat-square)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+) <!-- Placeholder for LangChain -->
+
+### 🗃️ Database
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+
 
 ## 🧑🏻‍💻 Tools & Platforms
 
