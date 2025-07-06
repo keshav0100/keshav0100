@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Keshav Bansal</h1>
 
 
-### 🚀 About Me  
-A passionate **Full Stack & AI Developer** with a strong foundation in building modern, responsive web apps and intelligent systems powered by **LLM's, NLP, Conversational AI and Speech Recognition**.  
+### 🚀 About Me
 
+I'm a passionate **Full Stack & AI Developer** who loves turning complex ideas into functional, scalable, and intelligent applications.
+
+With a strong foundation in **JavaScript, TypeScript, Python, and Java**, I specialize in building modern, high-performance web apps using frameworks like **React**, **Next.js**, and **Spring Boot**. On the AI side, I work extensively with **LLMs**, **transformers**, and **NLP pipelines** to build chatbots, semantic search systems and real-time voice-driven interfaces using **ASR** and **TTS**.
+
+From crafting user-centric frontend designs to engineering smart, scalable backends — I enjoy building systems that not only **work well**, but also **understand** and **respond** intelligently.
+
+I'm continuously learning, experimenting, and refining my craft — whether it’s through building side projects, contributing to open source, or exploring the latest in **Conversational AI**, **LangChain**, or **speech models**.
+
+Currently open to exciting opportunities in **full stack engineering**, or **startup tech roles**.
 
 ---
 
@@ -57,9 +65,9 @@ A passionate **Full Stack & AI Developer** with a strong foundation in building 
 ## 📊 GitHub Stats  
 
 ![Keshav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=keshav0100&show_icons=true&theme=tokyonight&count_private=true&hide=issues)
-![GitHub Streak](https://streak-stats.demolab.com/?user=keshav0100&theme=tokyonight&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keshav0100&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=keshav0100&theme=tokyonight&hide_border=true)
 
 
 
