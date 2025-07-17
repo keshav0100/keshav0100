@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Keshav Bansal</h1>
 
-
 ### 🚀 About Me
 
-Hello World!.. I am a passionate **Full Stack & AI Developer** who loves turning complex ideas into functional, scalable and intelligent applications.
+- 👋 Hello World! I'm a passionate **Full Stack & AI Developer** who loves transforming complex ideas into functional, scalable and intelligent applications.
+- 💻 I build modern, high-performance web apps using **React.js**, **Next.js** **Spring Boot**, and **MySQL**.
+- 🤖 On the AI side, I work extensively with **LLMs**, **Transformers**, and **NLP pipelines** to develop:
+  - Chatbots  
+  - Semantic Search Systems  
+  - Real-time Voice Interfaces using **ASR(Automatic Speech Recognition)** and **TTS (Text-to-Speech)**
+- 🧠 Exploring the latest in **Conversational AI**, **LangChain**, and **Speech Models**.
 
-I can build modern, high-performance web apps using frameworks like **React.Js**, **Next.js** and **Spring Boot** , **MySQL**. On the AI side, I work extensively with **LLMs**, **transformers** and **NLP pipelines** to build chatbots, semantic search systems and real-time voice-driven interfaces using **ASR** and **TTS**.
-
-I'm continuously learning, experimenting, and refining my craft — whether it’s through building side projects, contributing to open source or exploring the latest in **Conversational AI**, **LangChain**, or **speech models**.
-
-Currently open to exciting opportunities in **Full Stack Engineering** or **Startup Tech Roles**.
-
----
 
 ## 🔗 Links
 
