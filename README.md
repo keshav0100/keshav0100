@@ -3,13 +3,13 @@
 
 ### 🚀 About Me
 
-I'm a passionate **Full Stack & AI Developer** who loves turning complex ideas into functional, scalable, and intelligent applications.
+Hello World!.. I am a passionate **Full Stack & AI Developer** who loves turning complex ideas into functional, scalable and intelligent applications.
 
-I can build modern, high-performance web apps using frameworks like **React.Js**, **Next.js**, and **Spring Boot** , **MySQL**. On the AI side, I work extensively with **LLMs**, **transformers** and **NLP pipelines** to build chatbots, semantic search systems and real-time voice-driven interfaces using **ASR** and **TTS**.
+I can build modern, high-performance web apps using frameworks like **React.Js**, **Next.js** and **Spring Boot** , **MySQL**. On the AI side, I work extensively with **LLMs**, **transformers** and **NLP pipelines** to build chatbots, semantic search systems and real-time voice-driven interfaces using **ASR** and **TTS**.
 
 I'm continuously learning, experimenting, and refining my craft — whether it’s through building side projects, contributing to open source or exploring the latest in **Conversational AI**, **LangChain**, or **speech models**.
 
-Currently open to exciting opportunities in **full stack engineering**, or **startup tech roles**.
+Currently open to exciting opportunities in **Full Stack Engineering** or **Startup Tech Roles**.
 
 ---
 
