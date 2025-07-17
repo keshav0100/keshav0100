@@ -7,8 +7,8 @@
 - 🤖 On the AI side, I work extensively with **LLMs**, **Transformers**, and **NLP pipelines** to develop:
   - Chatbots  
   - Semantic Search Systems  
-  - Real-time Voice Interfaces using **ASR(Automatic Speech Recognition)** and **TTS (Text-to-Speech)**
-- 🧠 Exploring the latest in **Conversational AI**, **LangChain**, and **Speech Models**.
+  - Real-time Voice Interfaces using **Automatic Speech Recognition** and **Text-to-Speech**
+- 🧠 Exploring the latest in **Conversational AI**, **LangChain** and **Speech Recognition Models**.
 
 
 ## 🔗 Links
